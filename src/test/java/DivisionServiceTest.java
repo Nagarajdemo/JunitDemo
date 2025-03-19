@@ -1,5 +1,5 @@
-import DivisionService.DivisionCalculation;
-import DivisionService.DivisionService;
+import divisionservice.DivisionCalculation;
+import divisionservice.DivisionService;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

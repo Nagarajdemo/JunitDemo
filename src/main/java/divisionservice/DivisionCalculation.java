@@ -1,4 +1,4 @@
-package DivisionService;
+package divisionservice;
 
 public class DivisionCalculation {
 

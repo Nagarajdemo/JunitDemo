@@ -1,4 +1,4 @@
-package Multiplicationservice;
+package multiplicationservice;
 
 public class MultiplicationService {
     public int checkMultiplication(int x, int y){
